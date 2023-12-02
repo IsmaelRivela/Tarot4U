@@ -10,7 +10,7 @@ Welcome to the Tarot4U project! This GitHub repository hosts the code for the la
 
 ## ¿Qué he aprendido en este proyecto? 🙇🏻 
 
-Embarking on the development of the Tarot4U has been a captivating odyssey, elevating my proficiency in front-end development. Tackling the challenge of implementing an infinite carousel with JavaScript provided invaluable insights into crafting seamless and dynamic web interactions. The integration of variable fonts not only introduced a layer of personalized aesthetics but underscored the importance of adaptability and accessibility in design. The animated CSS background, designed to evoke an esoteric ambiance, served as a testament to the harmonious blend of technology and spirituality. Crafting a tarot-themed web environment with a carousel style not only expanded my creative toolkit but also reinforced the delicate balance between aesthetics and functionality. The Tarot4U project stands not just as a tarot for creative blocks but as an ongoing exploration of innovative front-end design and user experience. I trust that this journey proves as inspiring for you as it was for me. 🚀✨
+Embarking on the development of the Tarot4U has been a captivating odyssey, elevating my proficiency in front-end development. Tackling the challenge of implementing an infinite carousel with JavaScript provided invaluable insights into crafting seamless and dynamic web interactions. The integration of variable fonts not only introduced a layer of personalized aesthetics but underscored the importance of adaptability and accessibility in design. The animated CSS background, designed to evoke an esoteric ambiance, served as a testament to the harmonious blend of technology and spirituality. Crafting a tarot-themed web environment with a carousel style not only expanded my creative toolkit but also reinforced the delicate balance between aesthetics and functionality. One of the most significant challenges encountered was navigating the treatment of video for the entry transition, as executing a smooth transition between links, especially when the initial page load involves a video, presented intricate complexities.
 
 ## Tecnologías 🛠
 <!-- Iconos sacados de: https://github.com/hendrasob/badges/blob/master/README.md y https://github.com/alexandresanlim/Badges4-README.md-Profile -->
@@ -21,7 +21,7 @@ Embarking on the development of the Tarot4U has been a captivating odyssey, elev
 ## Vista previa del proyecto
 Si quieres echar un vistazo al proyecto, te recomiendo:
 
-![Captura del proyecto](https://github.com/IsmaelRivela/ConverseAkira/blob/main/assets/Captura%20de%20pantalla%202023-12-02%20131840.png)
+![Captura del proyecto](https://github.com/IsmaelRivela/Tarot4U/blob/main/assets/Captura%20de%20pantalla%202023-12-02%20142343.png)
 
 
 ## Autor ✒️
