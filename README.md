@@ -21,7 +21,7 @@ Embarking on the development of the Tarot4U has been a captivating odyssey, elev
 ## Vista previa del proyecto
 Si quieres echar un vistazo al proyecto, te recomiendo:
 
-![Captura del proyecto](https://github.com/IsmaelRivela/Tarot4U/blob/main/assets/Captura%20de%20pantalla%202023-12-02%20142343.png)
+![Captura del proyecto](https://github.com/IsmaelRivela/Tarot4U/blob/main/assets/Captura%20de%20pantalla%202023-12-02%20142608.png)
 
 
 ## Autor ✒️
