@@ -368,7 +368,7 @@ body{
 }
 
 .cards__h2{
-    margin: 3rem 0 ;
+    margin: 3rem 0 0 ;
     color: bisque;
 }
 .cards__wrapper{
@@ -382,6 +382,7 @@ body{
     justify-content: space-between;
     align-items: center;
 
+    margin-bottom: 2rem;
     padding: 1rem 2rem;
 
     perspective: 25rem;
